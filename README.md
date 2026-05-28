@@ -63,7 +63,7 @@ La documentación Swagger en `http://localhost:5293/swagger`
 ```json
 POST /categorias
 {
-  "nombre": "Electrónica"
+  "nombre": "tecnologia"
 }
 ```
 
